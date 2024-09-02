@@ -1,4 +1,4 @@
-# Flpappy Bird
+# Flappy Bird
 
 Flpappy Bird es un juego simple inspirado en el clásico Flappy Bird, desarrollado con Phaser 3. El objetivo es controlar un pájaro que debe evitar colisionar con tuberías mientras vuela a través de un paisaje.
 
